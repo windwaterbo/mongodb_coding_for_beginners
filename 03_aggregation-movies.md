@@ -1,4 +1,4 @@
-# Aggregation - Multi-Collection Join & One-to-Many
+# Aggregation - Multi Collection Join & One-to-Many
 
 ## Scenario
 
