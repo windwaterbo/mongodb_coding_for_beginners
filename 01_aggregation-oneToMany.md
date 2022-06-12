@@ -144,3 +144,13 @@ var pipeline = [
   ]}, 
 ];
 ```
+
+# Execution
+
+Execute the aggregation using the defined pipeline and also view its explain plan:
+
+```js
+db.products.aggregate(pipeline);
+
+db.products.explain("executionStats").aggregate(pipeline);
+```
