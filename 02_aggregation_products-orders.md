@@ -1,4 +1,4 @@
-# One-to-One Join
+# Aggregation - One-to-One Join
 
 # Scenario
 
