@@ -4,7 +4,11 @@
 1. Create Database
 
 ```sql
-use test_tv;
+// mongod command line
+use test_tv
+
+// VS Code Mongodb Playground
+use('test_tv');
 ```
 
 2. Create Collection
