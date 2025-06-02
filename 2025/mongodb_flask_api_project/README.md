@@ -61,7 +61,7 @@ python app.py
 - `GET /api/v1/dramas?category=亞洲`：分類查詢
 - `POST /api/v1/users`：新增使用者
 - `PUT /api/v1/users`：更新追蹤片單
-- `GET /api/v1/users/followedDramas`：查詢使用者追蹤戲劇資訊（含戲劇資料）
+- `GET /api/v1/users/{account}/followedDramas`：查詢使用者追蹤戲劇資訊（含戲劇資料）
 
 ---
 
