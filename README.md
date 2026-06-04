@@ -1,7 +1,7 @@
 # MongoDB for Beginners — Course Materials
 
 Industry lecture series taught at **National Taipei University of 
-Nursing and Health Sciences** (2023–present).
+Nursing and Health Sciences** (2022–present).
 
 This repository contains annual course materials covering MongoDB 
 fundamentals, aggregation pipelines, database design, and API 
