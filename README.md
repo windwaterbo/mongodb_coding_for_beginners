@@ -31,4 +31,4 @@ with no prior database experience.
 
 ## Instructor
 **YunTing Kung** — Healthcare Technology Architect & Industry Lecturer  
-[LinkedIn]([https://www.linkedin.com/in/yunting-kung](https://www.linkedin.com/in/yunting-kung-93803795/?isSelfProfile=true))
+[LinkedIn](https://www.linkedin.com/in/yunting-kung-93803795/?isSelfProfile=true)
