@@ -8,7 +8,7 @@ fundamentals, aggregation pipelines, database design, and API
 development — designed for nursing and health informatics students 
 with no prior database experience.
 
-## 2026 (Upcoming)
+## 2026 
 **MongoDB for Beginners: Database Thinking in the AI Era**
 - Focus: how to think about data modeling, validate AI-generated schema designs, and build APIs that both humans and AI agents can use
 
