@@ -10,8 +10,7 @@ with no prior database experience.
 
 ## 2026 (Upcoming)
 **MongoDB for Beginners: Database Thinking in the AI Era**
-- Focus: database design principles in the context of AI-era 
-  data architecture
+- Focus: how to think about data modeling, validate AI-generated schema designs, and build APIs that both humans and AI agents can use
 
 ## 2025
 - [MongoDB for beginner - Basic Operations and API Design.pdf](https://github.com/windwaterbo/mongodb_coding_for_beginners/blob/main/2025/MongoDB%20-%20Coding%20for%20beginners%202025.pdf)
